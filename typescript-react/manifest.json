@@ -1,0 +1,10 @@
+{
+  "id": "do.craft.template.typescript-react",
+  "name": "Typescript/React extension template",
+  "fileName": "typescript-react-extension",
+  "author" : "Craft Docs",
+  "author-email" : "team@craft.do",
+  "description" : "Template for creating Craft Docs extensions with Typescript and React",
+  "api": "0.1.0",
+  "main": "index.html"
+}
