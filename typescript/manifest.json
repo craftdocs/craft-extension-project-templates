@@ -5,6 +5,6 @@
   "author" : "Craft Docs",
   "author-email" : "team@craft.do",
   "description" : "Template for creating Craft Docs extensions with Typescript",
-  "api": "0.1.0",
+  "api": "0.0.4",
   "main": "index.html"
 }

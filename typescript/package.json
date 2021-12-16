@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@craftdocs/craft-extension-api": "0.0.3",
+    "@craftdocs/craft-extension-api": "0.0.4",
     "@craftdocs/craft-extension-api-sdk": "0.0.2",
     "copy-webpack-plugin": "^9.1.0",
     "css-loader": "^6.5.1",
